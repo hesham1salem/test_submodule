@@ -1,0 +1,3 @@
+[submodule "example-submodule"]
+	path = example-submodule
+	url = git@github.com:githubtraining/example-submodule.git
